@@ -1,0 +1,45 @@
+body {
+    font-family: "Rubik", sans-serif !important;
+    }
+
+/* .body {
+    background-color: #ebe9e9;
+    } */
+
+.brands > img {
+    width: 15%;
+}
+
+.globalMap > img {
+    width: 80%;
+}
+
+.reviews {
+    width: 27%;
+}
+
+.reviewsImg {
+    width: 70%;
+}
+
+.profileName {
+    margin: 0;
+    font-size: 8.46px !important;
+}
+
+.profileLocation {
+    font-size: 6.58px;
+}
+
+/* .navbuttons {
+    width: 40px;
+    margin: 10px;
+} */
+
+
+/* #btnoutline {
+    background-color: white !important;
+    border-color: red !important;
+    border: 1px !important;
+    border-radius: 5% !important;
+} */
