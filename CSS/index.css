@@ -31,10 +31,10 @@ body {
     font-size: 6.58px;
 }
 
-/* .navbuttons {
+.navbuttons {
     width: 40px;
     margin: 10px;
-} */
+}
 
 
 /* #btnoutline {
@@ -43,3 +43,16 @@ body {
     border: 1px !important;
     border-radius: 5% !important;
 } */
+
+#btnoutline {
+    border-style: solid !important;
+    border-color: red !important;
+    border: 1.5px;
+    color: red !important;
+}
+
+#btnoutline:hover {
+    background-color: red !important;
+    color: white !important;
+  }
+
